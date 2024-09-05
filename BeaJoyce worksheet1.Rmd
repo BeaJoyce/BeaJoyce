@@ -129,7 +129,7 @@ x <- {0 + x + 5 + }
 
 ```
 ```{r}
-# 13. Set up the vector
+# 13. Set up the vector c
 score <- c(72, 86, 92, 63, 88, 89, 91, 92, 75, 75, 77)
 
 x2 <- score[2]

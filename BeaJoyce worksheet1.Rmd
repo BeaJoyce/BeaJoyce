@@ -123,7 +123,7 @@ sum_multiples
 ```
 ```{r}
 # 12
-x <- {0 + x + 5 + }
+#x, <- {0 + x + 5 + }
 
 # The message indicates that R encountered an unexpected end of input because the expression is not complete. R is expecting more input to finish the statement.
 

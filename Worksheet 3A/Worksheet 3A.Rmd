@@ -1,0 +1,12 @@
+---
+title: "Worksheet 3A"
+author: "Bea Joyce C. Baylon"
+date: "2024-10-02"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Trial

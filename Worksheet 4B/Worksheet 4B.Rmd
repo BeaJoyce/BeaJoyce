@@ -25,4 +25,21 @@ for (i in 1:5) {
 print(matrix5x5)
 
 ```
+#2.Print the string "*" using for() function.
+```{r}
+# Define the dimensions of the grid
+rows <- 5
+columns <- 5
+
+# Outer loop for rows
+for (i in 1:rows) {
+  # Inner loop for columns
+  for (j in 1:columns) {
+    cat("* ")
+  }
+  # Newline after each row
+  cat("\n")
+}
+
+```
 
